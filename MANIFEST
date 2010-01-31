@@ -1,12 +1,13 @@
 Build.PL
 lib/Object/Quick.pm
-lib/Object/Quick/VMethod.pm
+lib/Object/Quick/Method.pm
+lib/Object/Quick/Strict.pm
 MANIFEST			This list of files
-MANIFEST.bak
 MANIFEST.SKIP
 META.yml
 README
-t/10-VMethod.t
+t/10-Method.t
 t/20-Quick-Object.t
 t/30-Quick-Class.t
 t/40-Quick-Import.t
+t/50-Quick-Strict.t
