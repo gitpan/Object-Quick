@@ -16,11 +16,11 @@ name: Object-Quick
 provides:
   Object::Quick:
     file: lib/Object/Quick.pm
-    version: 0.008
+    version: 0.009
   Object::Quick::Method:
     file: lib/Object/Quick/Method.pm
   Object::Quick::Strict:
     file: lib/Object/Quick/Strict.pm
 resources:
   license: http://dev.perl.org/licenses/
-version: 0.008
+version: 0.009
